@@ -1,1 +1,1 @@
-redirects to the latest website
+redirect old links to the latest website
