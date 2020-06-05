@@ -1,2 +1,1 @@
-# maximousblk.github.io
-redirect to the latest website
+redirects to the latest website
